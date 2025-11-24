@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **supritampal8@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TYU1yAHKngGWYNt2WNaQwKfkdaYv0meF/view?usp=sharing](https://drive.google.com/file/d/1TYU1yAHKngGWYNt2WNaQwKfkdaYv0meF/view?usp=sharing)
+- 📄 Resume Link [https://drive.google.com/file/d/1TYU1yAHKngGWYNt2WNaQwKfkdaYv0meF/view?usp=sharing](https://drive.google.com/file/d/1TYU1yAHKngGWYNt2WNaQwKfkdaYv0meF/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supritam-pal&show_icons=true&locale=en&layout=compact" alt="supritam-pal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supritam-pal&show_icons=true&locale=en" alt="supritam-pal" /></p>
+
 
