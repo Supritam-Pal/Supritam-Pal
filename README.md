@@ -14,6 +14,7 @@
 - 📫 How to reach me **supritampal8@gmail.com**
 
 - 📄 Resume Link [https://drive.google.com/file/d/1pvhhKuFGeqNKM4Uy_NODfBbcbdlcO7Ys/view?usp=sharing]
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
