@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supritam-pal&label=Profile%20views&color=0e75b6&style=flat" alt="supritam-pal" /> </p>
 
-- 🔭 I’m currently working on [Customer Shopping Behavior](https://github.com/Supritam-Pal/customer_shopping_behavior-anaysis-SQL-POWER-BI-PYTHON-)
+- 🔭 I’m currently working on [Customer Shopping Behavior Analysis](https://github.com/Supritam-Pal/customer_shopping_behavior-anaysis-SQL-POWER-BI-PYTHON-)
 
 - 🌱 I’m currently learning **Data Analysis , Data Science**
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **supritampal8@gmail.com**
 
 - 📄 Resume Link [https://drive.google.com/file/d/1pvhhKuFGeqNKM4Uy_NODfBbcbdlcO7Ys/view?usp=sharing]
+- - 📜 Certificate: [Simplilearn Power BI Certificate](https://drive.google.com/file/d/1pvhhKuFGeqNKM4Uy_NODfBbcbdlcO7Ys/view?usp=sharing)
+
   
 
 <h3 align="left">Connect with me:</h3>
