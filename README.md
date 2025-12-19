@@ -14,7 +14,7 @@
 - 📫 How to reach me **supritampal8@gmail.com**
 
 
-- 📄 Resume Link [https://drive.google.com/file/d/1nh3ZE41kosKtiIcrXFhQqQx3CBIYUcq3/view?usp=sharing]
+- 📄 Resume Link [https://drive.google.com/file/d/1L-e3Mc9o9-evr332O0xFD3B_VaBfFBhT/view?usp=sharing]
 - - 📜 Certificate_1: [Simplilearn Power BI Certificate](https://drive.google.com/file/d/1pVWrTb9txmpReP_PYpVEm2Xp9ekungCD/view?usp=sharing)
  - - 📜 Certificate_1: [Tutedude Data Analyst Certificate](https://drive.google.com/file/d/1XCzrqxneizpUCn_IditCLkcmvA0r_Hac/view?usp=sharing)
 
