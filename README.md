@@ -35,4 +35,6 @@
 
 <p><img src="https://deltalyz.com/wp-content/uploads/2023/02/Microsoft-Power-BI-Symbol.png" alt="Power Bi"></p>
 
+<p><img src="https://static.vecteezy.com/system/resources/previews/044/626/008/original/microsoft-excel-logo-spreadsheet-program-microsoft-office-365-logotype-microsoft-corporation-software-editorial-free-vector.jpg" id="img" style="width: 4px; height: 4px;"></p>
+
 
