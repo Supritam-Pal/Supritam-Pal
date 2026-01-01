@@ -33,3 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supritam-pal&show_icons=true&locale=en" alt="supritam-pal" /></p>
 
 
+<p><img src="https://deltalyz.com/wp-content/uploads/2023/02/Microsoft-Power-BI-Symbol.png"></p>
+
+
