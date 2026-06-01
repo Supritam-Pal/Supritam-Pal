@@ -249,10 +249,5 @@ Top-selling SKUs, seasonal demand patterns & revenue drivers from chocolate prod
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer&text=Open%20to%20Data%20Analyst%20Roles!&fontSize=18&fontColor=c7d2fe&fontAlignY=65&animation=fadeIn" />
 </div>
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer&text=Open%20to%20Data%20Analyst%20Roles!&fontSize=18&fontColor=c7d2fe&fontAlignY=65&animation=fadeIn" />
-</div>
 
 
