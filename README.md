@@ -43,7 +43,7 @@
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Data Visualisation: Empowering Business with Effective Insights | Tata Group / Forage | 2026 |
+
 | Power BI Certification | Simplilearn / Microsoft Partner | 2025 |
 | Data Analytics Certificate | Tutedude | 2025 |
 
