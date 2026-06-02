@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supritampal/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Supritam-Pal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supritampal8@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-6366f1?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1o--FQr5fW8JoDnzXlcF62YNTVfpwZGkH/view?usp=sharing)
+[![Resume](https://drive.google.com/file/d/1U6qJ7grJB6HYxWKUkvQ0jYlpeZhLOrb7/view?usp=sharing)
 
 </div>
 
