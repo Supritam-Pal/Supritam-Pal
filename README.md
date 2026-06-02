@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supritampal/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Supritam-Pal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supritampal8@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-6366f1?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1U6qJ7grJB6HYxWKUkvQ0jYlpeZhLOrb7/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-6366f1?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13KrvpFmfmgthElLKFNxuXYqEel3lcTO6/view?usp=sharing)
 
 </div>
 
@@ -34,7 +34,8 @@ supritam = {
     "building"   : "Customer Shopping Behavior Analysis",
     "learning"   : ["Data Analysis", "Data Science"],
     "skills"     : ["SQL", "Python", "Power BI", "Excel", "EDA", "KPI Tracking"],
-    "internship" : "Tata Group · GenAI Powered Data Analytics · Forage (Jan 2026)",
+    "internship1" : "Tata Group · GenAI Powered Data Analytics · Forage (Jan 2026)",
+    "internship2" : Tata Group · Data Visualisation Virtual Internship · Forage ( June 2026)""
     "contact"    : "supritampal8@gmail.com",
 }
 ```
