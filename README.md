@@ -52,13 +52,14 @@ supritam = {
 <img align="right" src="https://img.shields.io/badge/Jan%202026-6366f1?style=flat-square"/>
 
 
-### 🏢 Tata Group — GenAI Powered Data Analytics Job Simulation
+### 🏢 Tata Group — Data Visualisation Virtual Internship
 > Virtual Internship via Forage &nbsp;·&nbsp; Certificate of Completion
 
-- 🔍 Performed **EDA & risk profiling** on financial datasets to detect delinquency patterns
-- 🤖 Built **AI-powered predictive models** to identify at-risk customers & improve collections targeting
-- 📝 Authored a **business report** translating analytical findings into a data-driven collections strategy
-- ⚙️ Designed an **end-to-end AI-driven workflow** using GenAI tools in the analytics pipeline
+- 🔍 Selected appropriate chart types and visual formats to represent complex datasets clearly and effectively.
+- ⚙️ Optimized data processing workflows by cleaning and transforming unstructured datasets using Excel and Power Query.
+- 🤖 Built interactive Power BI dashboards to communicate business insights and KPIs to non-technical audiences and increase revenue by 5%.
+- 📝 Authored a **business report** translating analytical findings into a data-driven collections strategy.
+
 
 </td>
 <td>
