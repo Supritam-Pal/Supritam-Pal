@@ -46,9 +46,25 @@ supritam = {
 
 <table width="100%">
 <tr>
+
+  <td>
+
+<img align="right" src="https://img.shields.io/badge/Jan%202026-6366f1?style=flat-square"/>
+
+
+### 🏢 Tata Group — GenAI Powered Data Analytics Job Simulation
+> Virtual Internship via Forage &nbsp;·&nbsp; Certificate of Completion
+
+- 🔍 Performed **EDA & risk profiling** on financial datasets to detect delinquency patterns
+- 🤖 Built **AI-powered predictive models** to identify at-risk customers & improve collections targeting
+- 📝 Authored a **business report** translating analytical findings into a data-driven collections strategy
+- ⚙️ Designed an **end-to-end AI-driven workflow** using GenAI tools in the analytics pipeline
+
+</td>
 <td>
 
 <img align="right" src="https://img.shields.io/badge/Jan%202026-6366f1?style=flat-square"/>
+
 
 ### 🏢 Tata Group — GenAI Powered Data Analytics Job Simulation
 > Virtual Internship via Forage &nbsp;·&nbsp; Certificate of Completion
