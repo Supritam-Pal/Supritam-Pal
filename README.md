@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0b1e,6366f1,818cf8&height=210&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Supritam%20Pal&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=60&descColor=c7d2fe&animation=fadeIn" width="100%"/>
 
 <br/>
-
+  
 <img src="https://komarev.com/ghpvc/?username=supritam-pal&label=Profile+views&color=6366f1&style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/-Open%20to%20Work-6366f1?style=flat-square"/>
