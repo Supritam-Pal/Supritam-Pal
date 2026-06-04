@@ -35,7 +35,7 @@ supritam = {
     "learning"   : ["Data Analysis", "Data Science"],
     "skills"     : ["SQL", "Python", "Power BI", "Excel", "EDA", "KPI Tracking"],
     "internship1" : "Tata Group · GenAI Powered Data Analytics · Forage (Jan 2026)",
-    "internship2" : Tata Group · Data Visualisation Virtual Internship · Forage ( June 2026)""
+    "internship2" : "Tata Group · Data Visualisation Virtual Internship · Forage ( June 2026)",
     "contact"    : "supritampal8@gmail.com",
 }
 ```
