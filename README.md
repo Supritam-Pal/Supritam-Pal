@@ -203,7 +203,7 @@ End-to-end sales analysis with pivot tables, slicers & charts. Tracked monthly p
 
 <td width="50%" valign="top">
 
-### `09` &nbsp; [Chocolate Sales Analysis](https://github.com/Supritam-Pal/Chocolate-Sales-Analysis)
+### `09` &nbsp; [Chocolate Sales Analysis](https://github.com/Supritam-Pal/Chocklates_sales-Dashboard)
 
 Top-selling SKUs, seasonal demand patterns & revenue drivers from chocolate product sales data to support product strategy decisions.
 
