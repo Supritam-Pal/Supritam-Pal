@@ -182,7 +182,7 @@ Sales, profit & regional performance across product categories. Uncovered growth
 
 Patient records, admission trends & treatment outcomes to derive actionable healthcare insights and operational improvement recommendations.
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white
 ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </td>
